@@ -3,7 +3,7 @@
 - 🌱 I’m currently PhD candidate in Statistics at the University of Warwick (UK)
 - 📫 How to reach me claudia dot viaro at warwick dot ac dot uk, [Link to LinkedIn](https://www.linkedin.com/in/claudia-viaro/), [Link to Uni Webpage](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/viaro/)   <br />
 
-:arrow_down: Bardolino, Italy near my hometown :blush:
+:arrow_down: Bardolino, Italy. near my hometown :blush:
  
 <img width="2000" height="400" src="https://github.com/claudia-viaro/claudia-viaro/blob/main/utils/IMG20220703104638__.jpg">
 
