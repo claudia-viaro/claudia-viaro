@@ -5,7 +5,7 @@
 
 :arrow_down: Bardolino, Italy near my hometown :blush:
  
-<img width="20000" height="1500" src="https://github.com/claudia-viaro/claudia-viaro/blob/main/utils/IMG20220703104638__.jpg">
+<img width="2000" height="600" src="https://github.com/claudia-viaro/claudia-viaro/blob/main/utils/IMG20220703104638__.jpg">
 
 <!---
 claudia-viaro/claudia-viaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
