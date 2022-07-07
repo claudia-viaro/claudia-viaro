@@ -4,7 +4,7 @@
 - 📫 How to reach me claudia dot viaro at warwick dot ac dot uk, [LinkedIn](https://www.linkedin.com/in/claudia-viaro/), [Uni Webpage](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/viaro/)  
 - :mobile_phone_off: not much on social media but I can suggest some <img width="15" height="15" src="https://github.com/claudia-viaro/claudia-viaro/blob/main/utils/Spotify.png"> [nice songs](https://open.spotify.com/user/1184070719?si=c14951380f314b45) <br />
 
-:arrow_down: Bardolino, Italy. near my hometown :blush:
+:arrow_down: Bardolino (Italy), near my hometown :blush:
  
 <img width="2000" height="400" src="https://github.com/claudia-viaro/claudia-viaro/blob/main/utils/IMG20220703104638__.jpg">
 
