@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Claudia
-- 👀 My research interests include reinforcement learning and stochastic control in the healthcare domain: model updating of predictive scores in contexts of sequential decision-making, performative prediction and causal inference with active inference
+- 👀 My research interests include reinforcement learning in the healthcare domain: model updating of predictive scores in contexts of sequential decision-making, performative prediction and causal inference
 - 🌱 I’m currently PhD candidate in Statistics at the University of Warwick (UK)
 - 📫 How to reach me claudia dot viaro at warwick dot ac dot uk, [LinkedIn](https://www.linkedin.com/in/claudia-viaro/), [Uni Webpage](https://warwick.ac.uk/fac/sci/statistics/staff/research_students/viaro/), [Site](https://claudia-viaro.github.io/)  
 - :mobile_phone_off: not much on social media but I can suggest some <img width="15" height="15" src="https://github.com/claudia-viaro/claudia-viaro/blob/main/utils/Spotify.png"> [nice songs](https://open.spotify.com/user/1184070719?si=c14951380f314b45) <br />
