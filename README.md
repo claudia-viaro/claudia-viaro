@@ -1,5 +1,5 @@
-👋 Hi, I’m Claudia
-📫 How to reach me Claudia dot Viaro at univ-paris1.fr, [LinkedIn](https://www.linkedin.com/in/claudia-viaro/)
+- 👋 Hi, I’m Claudia
+- 📫 How to reach me Claudia dot Viaro at univ-paris1.fr, [LinkedIn](https://www.linkedin.com/in/claudia-viaro/)
 
 :arrow_down: Bardolino (Italy), near my hometown :blush:
  
